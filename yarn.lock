@@ -991,12 +991,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:^18.11.18":
-  version: 18.19.31
-  resolution: "@types/node@npm:18.19.31"
+"@types/node@npm:^20.9.0":
+  version: 20.14.2
+  resolution: "@types/node@npm:20.14.2"
   dependencies:
     undici-types: "npm:~5.26.4"
-  checksum: 10c0/bfebae8389220c0188492c82eaf328f4ba15e6e9b4abee33d6bf36d3b13f188c2f53eb695d427feb882fff09834f467405e2ed9be6aeb6ad4705509822d2ea08
+  checksum: 10c0/2d86e5f2227aaa42212e82ea0affe72799111b888ff900916376450b02b09b963ca888b20d9c332d8d2b833ed4781987867a38eaa2e4863fa8439071468b0a6f
   languageName: node
   linkType: hard
 
@@ -2938,7 +2938,7 @@ __metadata:
     "@types/react-dom": "npm:^18.2.25"
     "@vercel/webpack-asset-relocator-loader": "npm:1.7.3"
     css-loader: "npm:^6.0.0"
-    electron: "npm:28.2.8"
+    electron: "npm:30.1.0"
     electron-squirrel-startup: "npm:^1.0.0"
     eslint: "npm:^9.1.0"
     eslint-plugin-react: "npm:^7.34.1"
@@ -3007,16 +3007,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"electron@npm:28.2.8":
-  version: 28.2.8
-  resolution: "electron@npm:28.2.8"
+"electron@npm:30.1.0":
+  version: 30.1.0
+  resolution: "electron@npm:30.1.0"
   dependencies:
     "@electron/get": "npm:^2.0.0"
-    "@types/node": "npm:^18.11.18"
+    "@types/node": "npm:^20.9.0"
     extract-zip: "npm:^2.0.1"
   bin:
     electron: cli.js
-  checksum: 10c0/3dc4b95b138a035cb638c24f583ad17667c53e01c27222592c4d9a19223945d892404c9b653292ad5111252b014edc92e219ab7e986d24c6eb6e2adb035d4c10
+  checksum: 10c0/e17c5fdf275f8cd457086adfa05db7507d08dd9264024d80eae8e55eb01927d062b63223a1a15b3ac024ebe2c34cc4b3ceb5cc0ac3ded4721c4ac9be4e5fe33c
   languageName: node
   linkType: hard
 
