@@ -15,7 +15,7 @@ const config: ForgeConfig = {
     asar: true,
   },
   rebuildConfig: {},
-  makers: [new MakerSquirrel({}), new MakerDMG({}), new MakerAppImage({})],
+  makers: [new MakerSquirrel(), new MakerDMG(), new MakerAppImage()],
   plugins: [
     new AutoUnpackNativesPlugin({}),
     new WebpackPlugin({
